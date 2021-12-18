@@ -48,7 +48,7 @@ line 8 - MySQL database  ⠀
 
 create new server instance  ⠀
 
-`cd chart`  ⠀
+`cd twister-stat`  ⠀
 
 `php -S localhost:8081`  ⠀
 
