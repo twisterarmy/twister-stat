@@ -15,12 +15,15 @@ Index contain:  ⠀
 ### Configuration  ⠀
 
 line 5 - MySQL database  ⠀
+
 line 13 - blocks per step  ⠀
+
 line 31 - twister API  ⠀
 
 ### Requirements  ⠀
 
 `apt install python2 php-mysql mysql-server`  ⠀
+
 `pip install mysqlclient`  ⠀
 
 ###  Running  ⠀
@@ -31,20 +34,22 @@ line 31 - twister API  ⠀
 
 Tools for the data dumped visualization written in PHP  ⠀
 
+![demo](https://raw.githubusercontent.com/twisterarmy/twister-stat/main/media/demo.png)
+
 ### Configuration  ⠀
 
 line 8 - MySQL database  ⠀
 
 ### Requirements  ⠀
 
-`php-fpm`
-`php-curl`⠀
+`apt install php-fpm php-curl php-mysql mysql-server`  ⠀
 
 ### Running  ⠀
 
 create new server instance  ⠀
 
 `cd chart`  ⠀
+
 `php -S localhost:8081`  ⠀
 
 open in browser  ⠀
@@ -55,4 +60,4 @@ todo:  ⠀
 
 ## Static dumps directory  ⠀
 
-`dump`
+https://github.com/twisterarmy/twister-stat/tree/main/dump
