@@ -22,7 +22,7 @@ line 31 - twister API  ⠀
 
 ### Requirements  ⠀
 
-`apt install python2 php-mysql mysql-server`  ⠀
+`apt install python2 python2-dev php-mysql mysql-server`  ⠀
 
 `pip2 install mysqlclient`  ⠀
 
