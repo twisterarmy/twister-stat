@@ -24,7 +24,7 @@ line 31 - twister API  ⠀
 
 `apt install python2 php-mysql mysql-server`  ⠀
 
-`pip install mysqlclient`  ⠀
+`pip2 install mysqlclient`  ⠀
 
 ###  Running  ⠀
 
