@@ -24,6 +24,8 @@ line 31 - twister API  ⠀
 
 `apt install python2 python2-dev php-mysql mysql-server`  ⠀
 
+`pip2 install python-bitcoinrpc`  ⠀
+
 `pip2 install mysqlclient`  ⠀
 
 ###  Running  ⠀
