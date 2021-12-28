@@ -62,4 +62,8 @@ todo:  ⠀
 
 ## Static dumps directory  ⠀
 
-https://github.com/twisterarmy/twister-stat/tree/main/dump
+https://github.com/twisterarmy/twister-stat/tree/main/dump  ⠀
+
+## Alternative languages  ⠀
+
+https://github.com/twisterarmy/cloud-server/blob/main/tool/crawler/blockchain.php
